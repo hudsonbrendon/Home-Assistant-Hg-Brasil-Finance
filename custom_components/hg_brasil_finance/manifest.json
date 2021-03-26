@@ -1,0 +1,8 @@
+{
+  "domain": "hg_brasil_finance",
+  "name": "HG Brasil Finance",
+  "documentation": "https://github.com/hudsonbrendon/Home-Assistant-Hg-Brasil-Finance",
+  "dependencies": [],
+  "codeowners": ["@hudsonbrendon"],
+  "requirements": []
+}
